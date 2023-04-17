@@ -1,5 +1,6 @@
 ## My Portfolio Website
-contains my projects
+#### My projects
+    
     1. NYC Schools
     2. SQl DB for Canal Ship Registry
     3. Capstone Project: Android AI Chatbot Application
