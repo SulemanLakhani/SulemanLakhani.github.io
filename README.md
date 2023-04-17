@@ -6,3 +6,4 @@
     3. Capstone Project: Android AI Chatbot Application
     4. Texas Hamburger Project with Springboot, Microservices, Rest API
     5. IOS App for Tip Calculator
+    6. File Count Java Program - return the character count of the file
